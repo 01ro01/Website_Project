@@ -22,7 +22,6 @@
     text-transform: capitalize;
 }
 
-
 html{
     font-size: 62.5%;
     overflow-x: hidden;
@@ -39,8 +38,17 @@ html::-webkit-scrollbar track{
 html::-webkit-scrollbar-thumb{
     background-color: var(--main-color);
 }
+
+
 section{
    padding: 5rem 10%; 
+}
+
+@keyframes fadeIn{
+    0%{
+        transform: scale(0);
+        opacity: 0;
+    }
 }
 .header{
     position: sticky;
@@ -55,10 +63,10 @@ section{
     justify-content: space-between;
 }
 
-.header.logo{
-    font-size: 10.5rem;
-    color:var(--black);   
-}
+.header .logo{
+    font-size: 2.75rem;
+    color:var(--black);
+ }
 
 .header .navbar a{
     font-size: 2rem;
@@ -75,6 +83,87 @@ section{
     color:var(--black);
     display: none;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    background: url(../img/footer-bg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.footer .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    gap: 3rem;
+ }
+ 
+ .footer .box-container .box h3{
+    color:var(--white);
+    font-size: 2.5rem;
+    padding-bottom: 2rem;
+ }
+ 
+ .footer .box-container .box a{
+    color:var(--light-white);
+    font-size: 1.5rem;
+    padding-bottom: 1.5rem;
+    display: block;
+ }
+ 
+ .footer .box-container .box a i{
+    color:var(--main-color);
+    padding-right: .5rem;
+    transition: .2s linear;
+ }
+ 
+ .footer .box-container .box a:hover i{
+    padding-right: 2rem;
+ }
+ 
+ .footer .credit{
+    text-align: center;
+    padding-top: 3rem;
+    margin-top: 3rem;
+    border-top: .1rem solid var(--light-white);
+    font-size: 2rem;
+    color:var(--white);
+ }
+ 
+ .footer .credit span{
+    color:var(--main-color);
+ } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -115,6 +204,7 @@ section{
         transition: .2s linear;
         clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
     }
+     
     .header .navbar.active{
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
     }
