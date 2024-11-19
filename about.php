@@ -37,7 +37,7 @@
 <!-- header section stops -->
   
 <div class="heading" style="background:url(img/header-bg-1.png) no-repeat">
-    <h1>packages</h1>
+    <h1>about us</h1>
 </div>
 
 
@@ -116,3 +116,4 @@
 <script src="js/script.js"></script>
 </body>
 </html>
+

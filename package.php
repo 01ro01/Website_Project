@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,7 +38,7 @@
 <!-- header section stops -->
   
 <div class="heading" style="background:url(img/header-bg-1.png) no-repeat">
-    <h1>about us</h1>
+    <h1>packages</h1>
 </div>
 
 
