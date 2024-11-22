@@ -126,8 +126,75 @@
 
 <!-- services section ends -->
 
+<!-- home about section starts -->
 
+<section class="home-about">
+
+<div class="image">
+   <img src="img/about-img-2.jpg" alt="">
+</div>
+
+<div class="content">
+   <h3>about us</h3>
+   <p>Welcome to <strong>T&J Travel</strong>, your trusted partner in creating unforgettable journeys. At T&J Travel, we believe that every trip should be as unique as the traveler embarking on it. From breathtaking getaways to meticulously planned business trips.</p>
+    <p>Let us guide you on your next adventure. With <strong>T&J Travel</strong>, the world is yours to discover!</p>
+
+<a href="about.php" class="btn">read more</a>
+</div>
+</section>
+
+
+<!-- home about section stops -->
  
+<!-- home packages section starts -->
+
+<section class="home-packages">
+   <h1 class="heading-title">our packages</h1>
+   <div class="box-container">
+
+
+      <div class="box">
+         <div class="image">
+            <img src="img/img-1.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>adventure & tour</h3>
+            <p>Explore the World with Our Exclusive Packages!</p>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+
+      <div class="box">
+         <div class="image">
+            <img src="img/img-2.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>adventure & tour</h3>
+            <p>Unbeatable Packages, Unforgettable Adventures!</p>
+
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="img/img-3.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>adventure & tour</h3>
+            <p>Adventure Awaits with Our Travel Packages!
+
+</p>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+      </div>
+      <div class="load-more"> <a href="package.php" class="btn">load more</a></div>
+   
+</section>
+<!-- home packages section stops -->
 
 
 
