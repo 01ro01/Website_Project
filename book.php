@@ -93,34 +93,12 @@
 
 </form>
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- booking section stops -->
 
 
-<!-- footer section starts -->
 
+
+<!-- footer section starts -->
  <section class="footer">
 
        <div class= "box-container">
@@ -163,12 +141,6 @@
 
  </section>
  <!-- footer section stops -->
-
-
-
-
-
-
 
  
 <!-- swiper js link -->

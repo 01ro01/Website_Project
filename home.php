@@ -210,17 +210,6 @@
 
 <!-- home offers section stops -->
 
-
-
-
-
-
-
-
-
-
-
-
 <!-- footer section starts -->
 
  <section class="footer">
@@ -265,12 +254,6 @@
 
  </section>
  <!-- footer section stops -->
-
-
-
-
-
-
 
  
 <!-- swiper js link -->

@@ -126,6 +126,8 @@ section{
     display: none;
 }
 
+
+
 .home{
     padding:0;
  }
@@ -200,6 +202,7 @@ section{
  }
 
 
+
 .services .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
@@ -226,6 +229,9 @@ section{
     font-size: 1.7rem;
     padding-top: 1rem;
  }
+
+
+
 
  .home-about{
     display: flex;
@@ -258,6 +264,9 @@ section{
     line-height: 2;
     color:var(--black);
  }
+
+
+
 
  .home-packages{
    background: var(--light-bg);
@@ -314,6 +323,8 @@ section{
    margin-top: 2rem;
 }
 
+
+
 .home-offer{
    text-align: center;
 }
@@ -335,6 +346,9 @@ section{
    line-height: 2;
    padding: 1rem 0;
 }
+
+
+
 
 .about{
    display: flex;
@@ -393,6 +407,9 @@ section{
    color: var(--light-black);
    display: block;
 }
+
+
+
 
 .reviews{
    background: var(--light-bg);
@@ -505,6 +522,8 @@ section{
    margin-top: 2rem;
 }
 
+
+
 .booking .book-form{
    padding: 2rem;
    background: var(--light-bg);
@@ -597,19 +616,6 @@ section{
  .footer .credit span{
     color:var(--main-color);
  } 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
