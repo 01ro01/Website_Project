@@ -41,6 +41,140 @@
 </div>
 
 
+<!-- about section starts -->
+<section class="about">
+<div class="image">
+   <img src="img/about-img-2.jpg" alt="">
+</div>
+
+<div class="content">
+   <h3>Why choose us?</h3>
+   <p>We combine personalized service, expert planning, and</p>
+   <p>unbeatable deals to create travel experiences that exceed expectations.</p>
+   <p>With a passion for adventure and attention to detail, we make every journey seamless, stress-free, and unforgettable.</p>
+
+   <div class="icons-container">
+
+      <div class="icons">
+         <i class="fas fa-map"></i>
+         <span>top destinations</span>
+      </div>
+
+      <div class="icons">
+         <i class="fas fa-hand-holding-usd"></i>
+         <span>affordable price</span>
+      </div>
+
+      <div class="icons">
+         <i class="fas fa-headset"></i>
+         <span>24/7 guide service</span>
+      </div>
+
+
+   </div>
+
+
+</div>
+</section>
+
+<!-- about section stops -->
+
+<!-- review section starts -->
+
+<section class="reviews">
+<h1 class="heading-title"> clients reviews </h1>
+   <div class="swiper review-slider">
+
+   <div class="swiper-wrapper">
+
+      <div class="swiper-slider slide">
+         
+            <div class="starts">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>"T&J Travel made our honeymoon unforgettable! Everything was perfectly planned,and we didn’t have to worry about a thing.Highly recommend!"</p>
+            <h3> Alex R.</h3>
+            <span>traveler</span>
+            <img src="img/pic-1.png" alt="">
+</div>
+
+            <div class="swiper-slider slide">
+            <div class="starts">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>From booking to the final destination, T&J Travel exceeded my expectations. The customer service was outstanding.</p>
+            <h3> Sarah</h3>
+            <span>traveler</span>
+            <img src="img/pic-2.png" alt="">
+            </div>
+
+            <div class="swiper-slider slide">
+            <div class="starts">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>"I’ve booked multiple trips through T&J Travel, and every experience has been seamless. Great deals and even better memories!</p>
+            <h3>David w.</h3>
+            <span>traveler</span>
+            <img src="img/pic-3.png" alt="">
+            </div>
+
+
+            <div class="swiper-slider slide">
+            <div class="starts">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>"Thanks to T&J Travel, our family vacation was stress-free and fun-filled. We’ll definitely book again!"</p>
+            <h3>Rosie</h3>
+            <span>traveler</span>
+            <img src="img/pic-4.png" alt="">
+            </div>
+            
+            
+
+            <div class="swiper-slider slide">
+            <div class="starts">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>"Exceptional service and attention to detail! T&J Travel made sure every part of our trip was perfect."</p>
+            <h3>Michael</h3>
+            <span>traveler</span>
+            <img src="img/pic-5.png" alt="">
+            </div>
+
+
+            <div class="swiper-slider slide">
+            <div class="starts">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>T&J Travel turned my dream trip into reality! Their team was so helpful and attentive, making the entire process smooth and enjoyable. Can't wait to plan my next adventure with them!"</p>
+            <h3>Emily K.</h3>
+            <span>traveler</span>
+            <img src="img/pic-6.png" alt="">
+            </div>
 
 
 
@@ -54,6 +188,37 @@
 
 
 
+
+
+         </div>
+      </div>
+   </div>
+   </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- review section stops -->
 
 <!-- footer section starts -->
 

@@ -142,10 +142,9 @@
 <a href="about.php" class="btn">read more</a>
 </div>
 </section>
-
-
 <!-- home about section stops -->
  
+
 <!-- home packages section starts -->
 
 <section class="home-packages">
@@ -197,6 +196,19 @@
 <!-- home packages section stops -->
 
 
+<!-- home offers section starts -->
+<section class="home-offer">
+   <div class="content">
+      <h3>upto 30% off</h3>
+      <p>Pack your bags and save big on your next adventure! Enjoy up to 30% off on</p>
+      <p>select destinations – from tropical beaches to bustling cities.</p>
+      <p><strong>Don’t miss out</strong>
+      <p> book now and make your dream getaway a reality!</p>
+      <a href="book.php" class="btn">book now</a>
+   </div>
+</section>
+
+<!-- home offers section stops -->
 
 
 
