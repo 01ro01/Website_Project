@@ -468,16 +468,6 @@ section{
 
 
 
-
-
-
-
-
-
-
-
-
-
 .packages .box-container .box:hover .image img{
    transform: scale(1.1);
 }
@@ -515,7 +505,47 @@ section{
    margin-top: 2rem;
 }
 
+.booking .book-form{
+   padding: 2rem;
+   background: var(--light-bg);
+}
 
+.booking .book-form .flex{
+   display: flex;
+   flex-wrap: wrap;
+   gap: 2rem;
+}
+
+.booking .book-form .flex .inputBox{
+   flex: 1 1 41rem;
+}
+
+.booking .book-form .flex .inputBox input{
+   width: 100%;
+   padding: 1.2rem 1.4rem;
+   font-size: 1.6rem;
+   color: var(--light-black);
+   margin-top: 1.5rem;
+   border: var(--border);
+}
+
+.booking .book-form .flex .inputBox input:focus{
+   background: var(--black);
+   color: var(--white);
+}
+
+.booking .book-form .flex .inputBox input:focus::placeholder{
+   color: var(--light-white);
+}
+
+.booking .book-form .flex .inputBox span{
+   font-size: 1.5rem;
+   color: var(--light-black);
+}
+
+.booking .book-form .btn{
+   margin-top: 2rem;
+}
 
 
 
@@ -608,6 +638,10 @@ section{
 }
 
 @media (max-width:768px){
+
+   .heading h1{
+      font-size: 4rem;
+   }
 
     #menu-btn{
         display: inline-block;
